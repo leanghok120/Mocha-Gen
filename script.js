@@ -9,7 +9,7 @@ function getQR() {
 }
 
 function defaultQr() {
-  new QRCode(qrcodeEl, "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+  new QRCode(qrcodeEl, "https://github.com/leanghok120")
 }
 
 defaultQr()
